@@ -1,0 +1,4 @@
+root@comp3134-Winter2023:~# service sshd restart
+
+Ivy@DESKTOP-557UREB MINGW64 ~
+$ ssh root@137.184.172.1 -p 2222

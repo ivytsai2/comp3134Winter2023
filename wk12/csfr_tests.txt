@@ -1,0 +1,4 @@
+When submit the form from csfr_form.php it loads the message on csfr_action.php. 
+No query string showing the username and password which is more secure.
+
+But for csfr.html we are able to see the login info in as query string after submission.

@@ -1,0 +1,2 @@
+Shows the directory or file of the given query string. q=%2e%2e%2f is the same as q=../
+People are able to access files or directories that are stored outside the web root folder.

@@ -1,0 +1,79 @@
+kijiji.ca
+IP location database updated on	May 25, 2020 12:57 AM - Refresh Now
+IP Address	195.78.85.110
+Reverse DNS / Hostname / PTR	195.78.85.110
+City	Amsterdam
+Region	North holland
+Country	Netherlands    Netherlands (NL)
+Organization / ISP	Marktplaats B.V.
+Latitude / Longitude	52.3759, 4.8975
+Zipcode / Postcode	1012
+TimeZone	Europe/Amsterdam (+0200)
+Calling Code	+31
+Currency	EUR
+Languages	nl-NL, fy-NL
+ASN	AS41552
+
+youtube.com
+IP location database updated on	Jan 06, 2023 6:35 AM - Refresh Now
+IP Address	142.250.200.14
+Reverse DNS / Hostname / PTR	lhr48s29-in-f14.1e100.net
+City	London
+Region	England
+Country	United kingdom    United kingdom (GB)
+Organization / ISP	GOOGLE
+Latitude / Longitude	51.5638, -0.0765
+Zipcode / Postcode	N16
+TimeZone	Europe/London (+0000)
+Calling Code	+44
+Currency	GBP
+Languages	en-GB, cy-GB, gd
+ASN	AS15169
+
+facebook.com
+IP location database updated on	Jan 16, 2023 1:15 AM
+IP Address	185.60.216.35
+Reverse DNS / Hostname / PTR	edge-star-mini-shv-01-frx5.facebook.com
+City	Frankfurt am main
+Region	Hesse
+Country	Germany    Germany (DE)
+Organization / ISP	FACEBOOK
+Latitude / Longitude	50.1188, 8.6843
+Zipcode / Postcode	60313
+TimeZone	Europe/Berlin (+0100)
+Calling Code	+49
+Currency	EUR
+Languages	de
+ASN	AS32934
+
+twitter.com
+IP location database updated on	Mar 29, 2021 2:32 PM - Refresh Now
+IP Address	104.244.42.1
+Reverse DNS / Hostname / PTR	104.244.42.1
+City	San francisco
+Region	California
+Country	United states    United states (US)
+Organization / ISP	TWITTER
+Latitude / Longitude	37.7562, -122.4866
+Zipcode / Postcode	94122
+TimeZone	America/Los_Angeles (-0700)
+Calling Code	+1
+Currency	USD
+Languages	en-US, es-US, haw, fr
+ASN	AS13414
+
+instagram.com
+IP location database updated on	May 30, 2022 10:13 PM - Refresh Now
+IP Address	185.60.216.174
+Reverse DNS / Hostname / PTR	instagram-p42-shv-01-frx5.fbcdn.net
+City	Frankfurt am main
+Region	Hesse
+Country	Germany    Germany (DE)
+Organization / ISP	FACEBOOK
+Latitude / Longitude	50.1049, 8.6295
+Zipcode / Postcode	60326
+TimeZone	Europe/Berlin (+0200)
+Calling Code	+49
+Currency	EUR
+Languages	de
+ASN	AS32934

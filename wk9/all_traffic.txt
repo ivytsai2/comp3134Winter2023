@@ -1,0 +1,5 @@
+root@comp3134-Winter2023:~# tcpdump -i any -w all_traffic_20230416_2031
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+^C11 packets captured
+13 packets received by filter
+0 packets dropped by kernel

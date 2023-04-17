@@ -1,0 +1,3 @@
+Shows warning in the browser when a non-exist file or dicrectory was typed in the param query.
+This exposes the info of the structure of the web browser 
+"/var/www/html/wk10/directory_traversal_part1.php" which is bad.

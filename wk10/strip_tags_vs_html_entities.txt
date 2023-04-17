@@ -1,0 +1,3 @@
+Stripping html tags will remove any html or xml tags from the input string and leaving only the text content.
+Whereas displaying html entity value of user input involves in converting special characters to their equivalent html entities.
+These two techniques are both for input sanitization to prevent XSS attacks.

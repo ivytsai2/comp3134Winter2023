@@ -1,0 +1,2 @@
+I was able to traverse upwards. 
+People are able to check the structure of the browser and may have access to other files that were not for the public.

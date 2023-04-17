@@ -1,0 +1,1 @@
+Wrap the html comments in php tags and use double slash to comment them

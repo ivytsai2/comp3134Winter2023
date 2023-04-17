@@ -1,0 +1,7 @@
+The search word (input) is included in the url as a "path" after submitting the form.
+I can also search a word by typing the word in the url in this format https://www.dictionary.com/browse/search_word
+If a word is invalid it shows that there is no results found.
+The url is different for invalid words https://www.dictionary.com/noresult?term=searchfjldsjfldsf
+The invalid word is part of the query string "term=searchfjldsjfldsf"
+If special characters were typed, they display differently in the url. For example single quotes are replaced with "%27". 
+
